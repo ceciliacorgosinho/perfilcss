@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://1.bp.blogspot.com/-gzVAd_h0yvQ/XsRMdK8FV6I/AAAAAAAAWPY/BLfYMLMIeSE__f9dXBOZlvja__39tXxdwCLcBGAsYHQ/s1600/tent.jpg");
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+  }
+  
+  .menu{
+    background-color: #FFC125;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: #8B5742;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle, 
+  .site-title {
+    color: #FFC125;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+     font-family: monospace;
+    font-style: italic;
+   
+  }
